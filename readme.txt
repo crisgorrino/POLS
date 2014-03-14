@@ -1,0 +1,1 @@
+This is my git hub repo thingy for pols.mx
